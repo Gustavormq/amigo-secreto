@@ -9,7 +9,6 @@ Confira como o projeto ficou:
 
 ![Interface do Amigo Secreto](![image](https://github.com/user-attachments/assets/fa8bf3f0-3c56-4b8b-8cdb-9a1db620a315
 )
-)
 
 A interface apresenta:
 - Um cabeçalho vibrante com o título "Amigo Secreto" e uma ilustração animada.
