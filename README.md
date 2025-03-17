@@ -7,7 +7,7 @@ Bem-vindo ao **Amigo Secreto**, um projeto divertido e interativo desenvolvido p
 ## 📸 Visão Geral da Interface
 Confira como o projeto ficou:
 
-![Interface do Amigo Secreto](![image](https://github.com/user-attachments/assets/fa8bf3f0-3c56-4b8b-8cdb-9a1db620a315)
+![Interface do Amigo Secreto](![image](https://github.com/user-attachments/assets/fa8bf3f0-3c56-4b8b-8cdb-9a1db620a315
 )
 )
 
